@@ -1,22 +1,22 @@
 {
-  "name": "jquery.taconite",
-  "version": "3.6.6",
-  "homepage": "http://jquery.malsup.com/taconite/",
-  "authors": [
+    "name": "jquery.taconite",
+    "version": "3.6.6",
+    "homepage": "http://jquery.malsup.com/taconite/",
+    "authors": [
     "Ryan Asleson [taconite@malsup.com]",
     "Nathaniel T. Schutta"
   ],
-  "description": "Query Taconite plugin - A port of the Taconite framework by Ryan Asleson and Nathaniel T. Schutta",
-  "main": "jquery.taconite.js",
-  "moduleType": [
+    "description": "Query Taconite plugin - A port of the Taconite framework by Ryan Asleson and Nathaniel T. Schutta",
+    "main": "jquery.taconite.js",
+    "moduleType": [
     "globals"
   ],
-  "dependencies": {
-    "jquery": ">=1.3.2",
-  },
-  "keywords": [
+    "dependencies": {
+        "jquery": ">=1.3.2"
+    },
+    "keywords": [
     "Taconite",
     "JQuery"
   ],
-  "license": "MIT and GPL"
+    "license": "MIT and GPL"
 }
